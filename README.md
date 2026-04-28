@@ -1,2 +1,2 @@
-# E_Commerce-PowerBi_dashboard
-this is E_commerce PowerBi functional dashboard with : Map, Stacked Column Chart, Donut Chart, Line and Clustered Chart, Stacked Chart.
+# E_Commerce Sales Analysis
+this is E_commerce sales analysis with functional dashboard with : Forecasting, Stacked Column Chart, Donut Chart, Line and Clustered Chart, Stacked Chart.
